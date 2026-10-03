@@ -4,7 +4,7 @@ export const SERVICES = [
     title: "5-Year Graphene Ceramic Shield",
     category: "Ceramic Coatings",
     subType: "Multi-Year Paint Protection",
-    description: "Our apex chemical and UV barrier. 10H hardness, extreme hydrophobic self-cleaning properties, and intense candy-gloss depth engineered specifically to withstand 115°+ Arizona sun and harsh desert dust.",
+    description: "A carefully prepared ceramic treatment for a glossy, water-repellent finish that makes regular maintenance easier. We’ll assess your vehicle and explain the protection and care options.",
     warranty: "5-Year Guarantee",
     popular: true,
     features: [
@@ -19,7 +19,7 @@ export const SERVICES = [
     title: "3-Year Pro Ceramic Coating",
     category: "Ceramic Coatings",
     subType: "Ceramic Protection",
-    description: "Professional-grade ceramic layer creating an ultra-slick mirror shell over your vehicle's clear coat. Drastically reduces wash friction, repels bug splatter, bird droppings, and prevents mineral etching.",
+    description: "Professional ceramic protection for a slick, glossy finish. Thorough preparation and a tailored aftercare plan help you get the most from the treatment.",
     warranty: "3-Year Guarantee",
     popular: false,
     features: [
@@ -34,7 +34,7 @@ export const SERVICES = [
     title: "Stage 2 Optical Paint Correction",
     category: "Paint Correction",
     subType: "Swirl & Scratch Removal",
-    description: "Surgical two-step compounding and polishing process utilizing Rupes rotary & orbital machines. Eliminates 85% to 95% of wash swirls, micro-scratches, buffer trails, and hazing, revealing true OEM color clarity.",
+    description: "A two-stage polishing approach for paint that needs more attention. We assess the surface before choosing the right process to refine suitable swirls, haze and light marks.",
     warranty: "Flawless Clarity",
     popular: true,
     features: [
@@ -49,7 +49,7 @@ export const SERVICES = [
     title: "Stage 1 Gloss & Clarity Polish",
     category: "Paint Correction",
     subType: "Single-Stage Machine Polish",
-    description: "Ideal for newer vehicles or well-maintained paint. Removes light surface oxidation, minor wash marring, and revives maximum optical reflection and depth prior to sealant or ceramic application.",
+    description: "A gentle gloss enhancement for newer or well-maintained paint. Preparation, polishing and finishing protection are tailored to the condition of your vehicle.",
     warranty: "Mirror Reflection",
     popular: false,
     features: [
@@ -64,7 +64,7 @@ export const SERVICES = [
     title: "Exotic & Supercar Bespoke Preservation",
     category: "Exotics & Collector",
     subType: "White-Glove Specialization",
-    description: "Tailored specifically for Ferrari, Porsche, McLaren, Lamborghini, and collector vehicles. Delicately treats exposed carbon fiber weave, forged wheel barrels, engine bay carbon, and bespoke leather cockpit surfaces.",
+    description: "Considered care for cherished sports cars and collector vehicles, with attention to delicate finishes, wheels, trim and interior materials. We’ll plan the treatment around your vehicle.",
     warranty: "Concourse Ready",
     popular: true,
     features: [
@@ -79,7 +79,7 @@ export const SERVICES = [
     title: "The Valley Executive Mobile Detail",
     category: "Mobile Detailing",
     subType: "Complete Interior & Exterior",
-    description: "We bring our state-of-the-art mobile detailing unit directly to your home or office. Uses 100% deionized spot-free water, premium pH-neutral foam, wheels deep cleaned, and a meticulous interior revival.",
+    description: "A convenient interior and exterior detail at your home or office. We’ll discuss access and workspace, then tailor the visit to your car and the finish you want.",
     warranty: "Showroom Finish",
     popular: true,
     features: [
@@ -94,7 +94,7 @@ export const SERVICES = [
     title: "Interior Deep Steam & Leather Conditioning",
     category: "Interior Restoration",
     subType: "Deep Sanitation & Conditioning",
-    description: "High-temperature dry steam sanitation that kills 99.9% of bacteria, extracts embedded dirt from carpets, and conditions fine leather with pH-balanced oils to prevent cracking under Arizona heat.",
+    description: "A thorough interior refresh, with appropriate cleaning for upholstery, carpets, trim and leather. We choose methods and conditioning products to suit the materials in your car.",
     warranty: "Sanitized & Protected",
     popular: false,
     features: [

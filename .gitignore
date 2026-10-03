@@ -31,3 +31,9 @@ dist-ssr/
 
 # Local SQLite Database
 server/data/*.db*
+
+.vercel
+
+# Local redesign working files
+work/
+.vite-cache/
