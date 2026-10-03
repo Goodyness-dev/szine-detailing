@@ -1,0 +1,23 @@
+﻿User-agent: *
+Allow: /
+
+# 2026 AI Crawlers Permission
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://szinedetailing.com/sitemap.xml

@@ -1,0 +1,9 @@
+# ==============================================================================
+# 🎯 OUTREACH TARGETS LIST
+# Paste target client URLs below (one per line).
+# Lines starting with # are ignored.
+# Example:
+# https://www.glassdentistry.com
+# https://www.clantondental.com
+# ==============================================================================
+https://www.glassdentistry.com
